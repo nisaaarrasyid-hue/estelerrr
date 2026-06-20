@@ -1,0 +1,9 @@
+# Sensitive configuration files containing API keys
+estelerrr
+
+# Environment files
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
